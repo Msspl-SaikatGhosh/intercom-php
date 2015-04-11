@@ -1,3 +1,9 @@
+## Warning
+
+This is a **non-official**, **unmaintaned**, library. Please use the [official library](https://github.com/intercom/intercom-php) instead.
+
+## Introduction
+
 Intercom is a customer relationship management and messaging tool for web app owners
 
 This library provides connectivity with the Intercom API (http://doc.intercom.io/api/)
